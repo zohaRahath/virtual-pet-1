@@ -5,8 +5,8 @@ var position
 function preload()
 
 {
-  dog1=loadImage("images/dogImg.png")
-  dog2=loadImage("images/dogImg1.png")
+  dog1=loadImage("dogImg.png")
+  dog2=loadImage("dogImg1.png")
 	//load images here
 }
 
